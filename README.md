@@ -1,2 +1,2 @@
-# nuist_auto_login
+# nuist_network_login_logout
 nuist校园网登陆和注销
